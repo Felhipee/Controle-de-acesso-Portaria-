@@ -1,3 +1,5 @@
+<p align="left">
+
 Um programa básico para controle de entradas em portaria desenvolvido em PyQt5, utilizando a linguagem de programação Python e o banco de dados SQLite. 
 Transforme a gestão de acesso na empresa com nosso inovador sistema! 
 Cadastre motoristas e veículos com facilidade, tenha controle total e segurança. 
@@ -27,9 +29,9 @@ atualizar_tabela(self): Limpa a tabela na interface e recarrega os dados do banc
 
 atualizar_hora(self): Atualiza um campo de texto na interface com a hora atual. 
 Esta função é chamada periodicamente para manter o campo de data/hora atualizado.
+</p>
 
-<div align="center">
-<img src="[https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif](https://img.hype.games/cdn/e95e8f31-363d-4a86-8de3-5b905b7d8d88screen%20(1).jpg)" width="700px" />
-</div>
+![Logo]([[https://img.hype.games/cdn/e95e8f31-363d-4a86-8de3-5b905b7d8d88screen%20(1).jpg](https://w7.pngwing.com/pngs/715/372/png-transparent-two-checked-flags-racing-flags-auto-racing-racing-flag-miscellaneous-game-flag-png-free-download.png)https://w7.pngwing.com/pngs/715/372/png-transparent-two-checked-flags-racing-flags-auto-racing-racing-flag-miscellaneous-game-flag-png-free-download.png))
+
 
 ![print_soft_kalunga](https://github.com/Felhipee/Controle-de-acesso-Portaria-/assets/17773216/b96ae9ed-8324-4f1c-b57c-6489e273472b)
