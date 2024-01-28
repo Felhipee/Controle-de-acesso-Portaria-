@@ -28,3 +28,5 @@ atualizar_tabela(self): Limpa a tabela na interface e recarrega os dados do banc
 atualizar_hora(self): Atualiza um campo de texto na interface com a hora atual. 
 Esta função é chamada periodicamente para manter o campo de data/hora atualizado.
 
+
+![print_soft_kalunga](https://github.com/Felhipee/Controle-de-acesso-Portaria-/assets/17773216/b96ae9ed-8324-4f1c-b57c-6489e273472b)
