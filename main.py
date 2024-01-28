@@ -304,7 +304,6 @@ class AppController(QMainWindow):
             elif tipo == "HR":
                 hr_count += 1
 
-        # Criar o conteúdo do relatório com os números contados
         content = [
             [],  # Linha em branco
             ['⬛️⬛️⬛' * 5],  # Linha em branco
@@ -314,7 +313,6 @@ class AppController(QMainWindow):
             ["ID", "NOME", "PLACA", "CPF", "DATA", "TIPO"],  # Cabeçalho
         ]
 
-        # Adicionar os dados do banco de dados
         content += data
 
         # Adicionar informações sobre a contagem de tipos
